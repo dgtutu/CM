@@ -4,47 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb6c8af4-64a7-4fc9-8e1c-208d8bd883b7" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CBM_LLM.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/IndiaEngCovid/test.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/IndiaEngCovid/tool/change2list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/IndiaEngCovid/tool/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/IndiaEngCovid/train.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/IndiaEngCovid/train.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/IndiaEngCovid2/test.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/IndiaEngCovid2/tool/change2list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/IndiaEngCovid2/tool/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/IndiaEngCovid2/train.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/IndiaEngCovid2/train.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/IndiaEngCovidDatasetEDA4/test.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/IndiaEngCovidDatasetEDA4/tool/change2list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/IndiaEngCovidDatasetEDA4/tool/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/IndiaEngCovidDatasetEDA4/train.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/IndiaEngCovidDatasetEDA4/train.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/financial_news/all-data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/financial_news/generate_concept.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/financial_news/generate_concept_ds.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/financial_news/generate_concept_ds_async.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/financial_news/output_concepts/concepts_negative.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/financial_news/output_concepts/concepts_neutral.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/financial_news/output_concepts/concepts_positive.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/financial_news/output_concepts/concepts_summary.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/financial_news/output_concepts/step1_build_unified_dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/financial_news/output_concepts/step2_create_ground_truth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/financial_news/output_concepts/step3_train_cbm_and_analyze.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/financial_news/output_concepts/test.jsonl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/financial_news/output_concepts/test_prase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/financial_news/split.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/financial_news/test.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/financial_news/tool/change2list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/financial_news/tool/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/financial_news/train.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/financial_news/train.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/financial_news/val.json" afterDir="false" />
+    <list default="true" id="bb6c8af4-64a7-4fc9-8e1c-208d8bd883b7" name="更改" comment="sss">
+      <change afterPath="$PROJECT_DIR$/datasets/financial_news/concept_train.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/financial_news/concept_val.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/financial_news/generate_concept_ds.py" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/financial_news/generate_concept_ds.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/financial_news/generate_concept_gemini.py" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/financial_news/generate_concept_gemini.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,10 +19,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2ztiHalDfwJQ2WW7xDuWk3SnzQB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -65,11 +33,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.generate_concept_gemini.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "D:/Project/CBM_LLM",
+    "last_opened_file_path": "D:/Project/CM/datasets",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -80,7 +49,12 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\CM\datasets" />
+      <recent name="D:\Project\CM\datasets\financial_news" />
       <recent name="D:\Project\CBM_LLM" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\CM\datasets\financial_news" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -99,10 +73,40 @@
       <option name="presentableId" value="Default" />
       <updated>1752556682754</updated>
       <workItem from="1752556683891" duration="2428000" />
+      <workItem from="1752563810703" duration="1410000" />
+      <workItem from="1752566030570" duration="44000" />
+      <workItem from="1752569821644" duration="37000" />
     </task>
+    <task id="LOCAL-00001" summary="sss">
+      <option name="closed" value="true" />
+      <created>1752563848555</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752563848555</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sss" />
+    <option name="LAST_COMMIT_MESSAGE" value="sss" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CM$generate_concept_gemini.coverage" NAME="generate_concept_gemini 覆盖结果" MODIFIED="1752566042545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets/financial_news" />
   </component>
 </project>

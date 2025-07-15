@@ -5,7 +5,7 @@ from collections import defaultdict
 from openai import OpenAI
 
 # --- 配置您的 DeepSeek API 密钥 ---
-api_key = "sk-58092eb7ee534a1f8e3c34d3176de044"
+api_key = "sk-"
 client = OpenAI(api_key=api_key, base_url="https://api.deepseek.com/v1")
 
 MAX_PROCESS_NUM = -1

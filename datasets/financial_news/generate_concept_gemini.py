@@ -21,16 +21,16 @@ genai.configure(api_key=api_key)
 
 # 用于概念提取的提示模板
 PROMPT_TEMPLATE = """
-You are a professional financial analyst, please read this text and summarize the connotation of this sample with up to one to six short, precise and neutral financial concept phrases, which can be used as the basis for classifying this sample.
+As a financial analyst creating features for a classification model, extract 1-6 standardized, non-overlapping concepts from the text that justify the given `Label`.
 
 Requirement: 
-1. Generate up to 1 to 6 different concepts. 
-2. Each concept should be highly summarized to grasp the essence of the event. 
-3. Each concept should be a common business or financial term/event. 
-4. Each concept should occupy one line and no numbers or symbols should be added before it. 
-5. The output concept should be associated with the category of the sample. 
-6. The meanings of the output concepts should not be repetitive. 
-7. If the sample text is too short or incomplete, please output "Concept cannot be generated".
+1. Each concept should be highly summarized to grasp the essence of the event. 
+2. Each concept should be a common business or financial term/event. 
+3. Each concept should occupy one line and no numbers or symbols should be added before it. 
+4. The meanings of the output concepts should not be repetitive.
+5.  **Consolidate Synonyms:** Merge similar ideas. E.g., "rate hike" and "policy tightening" should become "Monetary Policy Tightening".
+6.  **Be Specific & Multi-faceted:** Capture the core event, actors, and market impact. Avoid vague terms like "Market Update".
+ 
 
 The output must be a valid JSON list of strings. For example: ["Concept A", "Concept B", "Concept C"].
 If no relevant concepts are found, return an empty list [].
@@ -153,10 +153,10 @@ def process_dataset_realtime(input_path: str, output_path: str):
 
 if __name__ == "__main__":
     # 定义输入和输出文件路径
-    train_input_file = os.path.join("./", "train.json")
+    train_input_file = os.path.join("../", "train.json")
     train_output_file = "concept_train.json"
 
-    val_input_file = os.path.join("./", "val.json")
+    val_input_file = os.path.join("../", "val.json")
     val_output_file = "concept_val.json"
 
     # 使用新的实时处理函数处理训练集
