@@ -1,0 +1,396 @@
+<example>words related to death.</example>
+<example>high infection risk.</example>
+<example>death toll rising.</example>
+<example>uncertainty about the virus</example>
+<example>mentions of panic</example>
+<example>concerns about personal safety</example>
+<example>references to anxiety</example>
+<example>spread of misinformation</example>
+<example>mentions of hospital overcrowding</example>
+<example>worries about economic impact</example>
+<example>references to lockdown restrictions</example>
+<example>concerns about job loss</example>
+<example>mentions of quarantine challenges</example>
+<example>references to virus spread</example>
+<example>concerns about lack of testing</example>
+<example>mentions of government inaction</example>
+<example>worries about travel bans</example>
+<example>references to social distancing failures</example>
+<example>concerns about personal health</example>
+<example>mentions of virus symptoms</example>
+<example>worries about inadequate healthcare</example>
+<example>references to event cancellations</example>
+<example>concerns about virus transmission</example>
+<example>mentions of public panic buying</example>
+<example>worries about supply shortages</example>
+<example>references to overwhelmed systems</example>
+<example>concerns about government response</example>
+<example>mentions of conspiracy theories</example>
+<example>worries about asymptomatic carriers</example>
+<example>references to global spread</example>
+<example>concerns about medical shortages</example>
+<example>mentions of isolation effects</example>
+<example>worries about mental health</example>
+<example>references to virus mutations</example>
+<example>concerns about vaccine delays</example>
+<example>mentions of travel disruptions</example>
+<example>worries about school closures</example>
+<example>references to public disobedience</example>
+<example>concerns about virus origins</example>
+<example>mentions of overwhelmed hospitals</example>
+<example>worries about economic collapse</example>
+<example>references to rising case numbers</example>
+<example>concerns about misinformation spread</example>
+<example>mentions of inadequate leadership</example>
+<example>worries about social unrest</example>
+<example>references to canceled surgeries</example>
+<example>concerns about public gatherings</example>
+<example>mentions of virus denial</example>
+<example>worries about long-term effects</example>
+<example>references to health risks</example>
+<example>concerns about elderly vulnerability</example>
+<example>mentions of systemic failures</example>
+<example>worries about personal finances</example>
+<example>references to virus hoaxes</example>
+<example>concerns about border closures</example>
+<example>mentions of crowded public spaces</example>
+<example>worries about virus reinfection</example>
+<example>references to lack of preparedness</example>
+<example>concerns about public health measures</example>
+<example>mentions of hospital staff infections</example>
+<example>worries about virus persistence</example>
+<example>references to media exaggeration</example>
+<example>concerns about job insecurity</example>
+<example>mentions of virus-related stigma</example>
+<example>worries about healthcare access</example>
+<example>references to global instability</example>
+<example>concerns about supply chain issues</example>
+<example>mentions of personal isolation</example>
+<example>worries about community spread</example>
+<example>references to government mistrust</example>
+<example>concerns about virus severity</example>
+<example>mentions of health protocol violations</example>
+<example>worries about unemployment spikes</example>
+<example>references to virus-related lawsuits</example>
+<example>concerns about delayed medical care</example>
+<example>mentions of public health warnings</example>
+<example>worries about virus mutations</example>
+<example>references to emergency declarations</example>
+<example>concerns about social restrictions</example>
+<example>mentions of virus-related scams</example>
+<example>worries about medical resource shortages</example>
+<example>references to canceled public events</example>
+<example>concerns about virus incubation</example>
+<example>mentions of overwhelmed authorities</example>
+<example>worries about virus recurrence</example>
+<example>references to inadequate testing kits</example>
+<example>concerns about public transport risks</example>
+<example>mentions of virus-related protests</example>
+<example>worries about economic recovery</example>
+<example>references to virus-related xenophobia</example>
+<example>concerns about delayed vaccinations</example>
+<example>mentions of virus-related restrictions</example>
+<example>worries about healthcare system collapse</example>
+<example>references to virus-related misinformation</example>
+<example>concerns about virus hotspots</example>
+<example>mentions of inadequate public communication</example>
+<example>worries about virus-related unemployment</example>
+<example>references to virus-related panic</example>
+<example>concerns about insufficient government aid</example>
+<example>loss of loved ones.</example>
+<example>tearful goodbyes.</example>
+<example>words related to hopeless.</example>
+<example>economic hardship</example>
+<example>job loss</example>
+<example>financial struggles</example>
+<example>death toll reports</example>
+<example>hospital overcrowding</example>
+<example>lockdown struggles</example>
+<example>inability to afford basic needs</example>
+<example>business closures</example>
+<example>unemployment spikes</example>
+<example>healthcare worker deaths</example>
+<example>family separations</example>
+<example>cancelled plans</example>
+<example>missed vacations</example>
+<example>social isolation</example>
+<example>government inaction</example>
+<example>failure of leadership</example>
+<example>poverty exacerbation</example>
+<example>hunger concerns</example>
+<example>medical neglect</example>
+<example>overwhelmed healthcare systems</example>
+<example>condolences for deaths</example>
+<example>reports of rising cases</example>
+<example>funeral restrictions</example>
+<example>inadequate testing</example>
+<example>lack of hospital beds</example>
+<example>personal financial loss</example>
+<example>rent payment difficulties</example>
+<example>eviction fears</example>
+<example>stranded individuals</example>
+<example>delayed medical treatments</example>
+<example>mental health decline</example>
+<example>despair over lockdowns</example>
+<example>reports of negligence</example>
+<example>pleas for help</example>
+<example>community suffering</example>
+<example>worker exploitation</example>
+<example>unpaid salaries</example>
+<example>business loan defaults</example>
+<example>stock market crashes</example>
+<example>economic collapse fears</example>
+<example>reports of police brutality</example>
+<example>discrimination against vulnerable groups</example>
+<example>loss of educational opportunities</example>
+<example>children missing classes</example>
+<example>food scarcity</example>
+<example>ration shortages</example>
+<example>hospital mismanagement</example>
+<example>death of public figures</example>
+<example>overpriced medical treatments</example>
+<example>lack of government support</example>
+<example>calls for justice</example>
+<example>reports of suicides</example>
+<example>family members stuck in quarantine</example>
+<example>inability to travel</example>
+<example>border closures</example>
+<example>loss of cultural events</example>
+<example>religious event cancellations</example>
+<example>funeral attendance restrictions</example>
+<example>healthcare worker sacrifices</example>
+<example>reports of mass layoffs</example>
+<example>small business failures</example>
+<example>reports of crematorium overuse</example>
+<example>pleas for financial relief</example>
+<example>loss of community support</example>
+<example>increased mortality rates</example>
+<example>reports of overwhelmed morgues</example>
+<example>neglect of marginalized groups</example>
+<example>disrupted supply chains</example>
+<example>shortages of medical supplies</example>
+<example>reports of hospital deaths</example>
+<example>calls for better governance</example>
+<example>struggles of daily wage workers</example>
+<example>forced evictions</example>
+<example>reports of untreated patients</example>
+<example>loss of personal savings</example>
+<example>inability to pay bills</example>
+<example>reports of child deaths</example>
+<example>disrupted education systems</example>
+<example>loss of social connections</example>
+<example>reports of government corruption</example>
+<example>inadequate quarantine facilities</example>
+<example>reports of mass graves</example>
+<example>loss of religious practices</example>
+<example>delayed burials</example>
+<example>reports of economic inequality</example>
+<example>struggles of the middle class</example>
+<example>reports of healthcare worker infections</example>
+<example>loss of public services</example>
+<example>reports of social unrest</example>
+<example>disrupted family traditions</example>
+<example>reports of asylum seeker struggles</example>
+<example>loss of personal freedom</example>
+<example>reports of mental health crises</example>
+<example>inability to access healthcare</example>
+<example>reports of societal collapse</example>
+<example>loss of hope for recovery</example>
+<example>community support</example>
+<example>helping others</example>
+<example>positive initiatives</example>
+<example>lockdown creativity</example>
+<example>family bonding</example>
+<example>appreciation for frontline workers</example>
+<example>successful containment measures</example>
+<example>environmental improvement</example>
+<example>personal achievements</example>
+<example>motivational messages</example>
+<example>celebrating small victories</example>
+<example>hopeful messages</example>
+<example>acts of kindness</example>
+<example>teamwork efforts</example>
+<example>safe practices</example>
+<example>relief efforts</example>
+<example>innovative solutions</example>
+<example>cleaner cities</example>
+<example>resilience stories</example>
+<example>positive role models</example>
+<example>collaborative spirit</example>
+<example>community events</example>
+<example>celebrating milestones</example>
+<example>gratitude expressions</example>
+<example>spiritual upliftment</example>
+<example>donations to fight pandemic</example>
+<example>successful testing efforts</example>
+<example>effective leadership</example>
+<example>peaceful moments</example>
+<example>new opportunities</example>
+<example>personal growth</example>
+<example>support for local businesses</example>
+<example>positive policy changes</example>
+<example>volunteer work</example>
+<example>celebrating healthcare workers</example>
+<example>online learning success</example>
+<example>home-based activities</example>
+<example>cleaner air quality</example>
+<example>artistic expressions</example>
+<example>celebrating festivals safely</example>
+<example>community resilience</example>
+<example>effective communication</example>
+<example>supply chain stability</example>
+<example>positive social media campaigns</example>
+<example>support for vulnerable groups</example>
+<example>safe travel measures</example>
+<example>reopening celebrations</example>
+<example>financial relief success</example>
+<example>food distribution programs</example>
+<example>educational continuity</example>
+<example>positive government actions</example>
+<example>mental health support</example>
+<example>appreciation for nature</example>
+<example>successful plasma donation</example>
+<example>lockdown humor</example>
+<example>celebrating birthdays creatively</example>
+<example>online community engagement</example>
+<example>safe socializing ideas</example>
+<example>support for entrepreneurs</example>
+<example>positive media coverage</example>
+<example>celebrating recoveries</example>
+<example>new hobbies</example>
+<example>effective sanitization efforts</example>
+<example>community appreciation</example>
+<example>successful fundraising</example>
+<example>hope for future</example>
+<example>celebrating local heroes</example>
+<example>online entertainment</example>
+<example>positive lifestyle changes</example>
+<example>support for farmers</example>
+<example>safe religious practices</example>
+<example>celebrating teamwork</example>
+<example>new business models</example>
+<example>positive global cooperation</example>
+<example>lockdown productivity</example>
+<example>celebrating small businesses</example>
+<example>effective quarantine measures</example>
+<example>support for students</example>
+<example>celebrating volunteers</example>
+<example>positive family moments</example>
+<example>community clean-up efforts</example>
+<example>successful remote work</example>
+<example>celebrating cultural events</example>
+<example>positive health updates</example>
+<example>support for artists</example>
+<example>lockdown fitness routines</example>
+<example>celebrating educators</example>
+<example>positive community feedback</example>
+<example>successful online events</example>
+<example>support for healthcare systems</example>
+<example>celebrating scientists</example>
+<example>positive environmental policies</example>
+<example>lockdown cooking experiments</example>
+<example>celebrating unity</example>
+<example>positive youth contributions</example>
+<example>support for mental well-being</example>
+<example>celebrating hope</example>
+<example>recovery news.</example>
+<example>vaccine success.</example>
+<example>political blame</example>
+<example>economic disruption</example>
+<example>lockdown restrictions</example>
+<example>racist rhetoric</example>
+<example>healthcare failures</example>
+<example>stockpiling selfishness</example>
+<example>media exaggeration</example>
+<example>policy inconsistency</example>
+<example>social distancing violations</example>
+<example>job losses</example>
+<example>partisan politics</example>
+<example>hoax claims</example>
+<example>leadership incompetence</example>
+<example>travel bans</example>
+<example>supply shortages</example>
+<example>event cancellations</example>
+<example>financial mismanagement</example>
+<example>scapegoating minorities</example>
+<example>corporate greed</example>
+<example>school closures</example>
+<example>religious gatherings</example>
+<example>testing delays</example>
+<example>hospital mismanagement</example>
+<example>unemployment spikes</example>
+<example>conspiracy theories</example>
+<example>privacy invasions</example>
+<example>price gouging</example>
+<example>business closures</example>
+<example>worker exploitation</example>
+<example>anti-vaccine sentiment</example>
+<example>border disputes</example>
+<example>quarantine breaches</example>
+<example>fake news</example>
+<example>political rallies</example>
+<example>essential worker risks</example>
+<example>government overreach</example>
+<example>public noncompliance</example>
+<example>health policy disputes</example>
+<example>international tensions</example>
+<example>scientific mistrust</example>
+<example>social media censorship</example>
+<example>elite privilege</example>
+<example>community neglect</example>
+<example>lockdown fatigue</example>
+<example>curfew enforcement</example>
+<example>economic stimulus delays</example>
+<example>personal freedom erosion</example>
+<example>misallocated resources</example>
+<example>health misinformation</example>
+<example>travel restrictions chaos</example>
+<example>emergency response failures</example>
+<example>political favoritism</example>
+<example>civil liberties concerns</example>
+<example>labor rights violations</example>
+<example>housing evictions</example>
+<example>food insecurity</example>
+<example>mental health neglect</example>
+<example>education disruptions</example>
+<example>childcare shortages</example>
+<example>elderly neglect</example>
+<example>religious freedom debates</example>
+<example>mask mandate disputes</example>
+<example>business bailout inequities</example>
+<example>transportation shutdowns</example>
+<example>unhygienic conditions</example>
+<example>overcrowded facilities</example>
+<example>tax policy complaints</example>
+<example>foreign policy failures</example>
+<example>diplomatic disputes</example>
+<example>supply chain breakdowns</example>
+<example>workplace safety issues</example>
+<example>insurance claim denials</example>
+<example>bank loan rejections</example>
+<example>rent payment pressures</example>
+<example>utility bill burdens</example>
+<example>stock market crashes</example>
+<example>tourism collapse</example>
+<example>sports event bans</example>
+<example>entertainment industry losses</example>
+<example>charity mismanagement</example>
+<example>pharmaceutical profiteering</example>
+<example>clinical trial delays</example>
+<example>vaccine distribution inequities</example>
+<example>contact tracing failures</example>
+<example>hospital bed shortages</example>
+<example>ventilator scarcity</example>
+<example>personal protective equipment shortages</example>
+<example>funeral restrictions</example>
+<example>grief process disruptions</example>
+<example>domestic violence spikes</example>
+<example>homelessness surges</example>
+<example>prison outbreaks</example>
+<example>immigration policy backlash</example>
+<example>refugee neglect</example>
+<example>indigenous community oversight</example>
+<example>rural healthcare gaps</example>
+<example>words related to government inaction.</example>
+<example>protest clashes.</example>
+<example>misinformation chaos.</example>

@@ -1,0 +1,192 @@
+<example>community support initiatives.</example>
+<example>gratitude for healthcare workers.</example>
+<example>successful lockdown results.</example>
+<example>mutual aid efforts.</example>
+<example>inspiring recovery stories.</example>
+<example>mental health coping strategies.</example>
+<example>donation drives achievement.</example>
+<example>positive antibody test results.</example>
+<example>remote work benefits.</example>
+<example>family bonding moments.</example>
+<example>educational resources sharing.</example>
+<example>flattening the curve reports.</example>
+<example>creative home activities.</example>
+<example>essential worker appreciation.</example>
+<example>local business support campaigns.</example>
+<example>good hygiene celebrations.</example>
+<example>telemedicine successes.</example>
+<example>neighborhood solidarity.</example>
+<example>climate improvement data.</example>
+<example>charitable acts sharing.</example>
+<example>herd immunity milestones.</example>
+<example>food bank contributions.</example>
+<example>online fitness communities.</example>
+<example>reopening safety protocols.</example>
+<example>positive test rate declines.</example>
+<example>socially distanced gatherings.</example>
+<example>educational equity programs.</example>
+<example>medical supply innovations.</example>
+<example>mental wellness apps.</example>
+<example>hospital discharge celebrations.</example>
+<example>global cooperation news.</example>
+<example>mask effectiveness evidence.</example>
+<example>long-term care victories.</example>
+<example>economic relief packages.</example>
+<example>online volunteering impacts.</example>
+<example>science funding breakthroughs.</example>
+<example>reduced pollution visuals.</example>
+<example>distance learning resources.</example>
+<example>pedestrian-friendly city adaptations.</example>
+<example>vaccine distribution efficiency.</example>
+<example>hope-themed artwork.</example>
+<example>indoor gardening trends.</example>
+<example>contact tracing advancements.</example>
+<example>renewed nature appreciation.</example>
+<example>therapy accessibility improvements.</example>
+<example>first responder tributes.</example>
+<example>public compliance recognition.</example>
+<example>wildlife revival stories.</example>
+<example>ICU capacity improvements.</example>
+<example>digital detox benefits.</example>
+<example>food delivery heroics.</example>
+<example>rent/mortgage assistance programs.</example>
+<example>public health investment news.</example>
+<example>sanitation worker accolades.</example>
+<example>blood donation milestones.</example>
+<example>homeless outreach expansions.</example>
+<example>pet adoption surges.</example>
+<example>remote festival experiences.</example>
+<example>renewable energy transitions.</example>
+<example>therapy animal stories.</example>
+<example>research collaboration news.</example>
+<example>positive patient outcomes.</example>
+<example>manufacturing pivots success.</example>
+<example>elderly support networks.</example>
+<example>genomic sequencing achievements.</example>
+<example>neighborhood cheering events.</example>
+<example>ventilator sharing systems.</example>
+<example>antibody donation calls.</example>
+<example>online religious services.</example>
+<example>educational grant offerings.</example>
+<example>farmers market adaptations.</example>
+<example>remote mentoring programs.</example>
+<example>frontline worker accommodations.</example>
+<example>small business pivots.</example>
+<example>temporary park expansions.</example>
+<example>international medical aid.</example>
+<example>food insecurity solutions.</example>
+<example>positive news roundups.</example>
+<example>clinical trial progress.</example>
+<example>communal singing events.</example>
+<example>hometown pride displays.</example>
+<example>manufacturing localization benefits.</example>
+<example>public transit safety measures.</example>
+<example>digital literacy gains.</example>
+<example>stress management resources.</example>
+<example>remote voting implementations.</example>
+<example>essential supply innovations.</example>
+<example>online cultural exchanges.</example>
+<example>family reunion creativity.</example>
+<example>positive leadership recognition.</example>
+<example>vaccine equity initiatives.</example>
+<example>long-hauler recovery updates.</example>
+<example>survivor plasma successes.</example>
+<example>recovery news.</example>
+<example>vaccine success.</example>
+<example>words related to free.</example>
+<example>ICU capacity overload.</example>
+<example>mortuary system strain.</example>
+<example>burial delay trauma.</example>
+<example>patient triage horror.</example>
+<example>testing kit shortage.</example>
+<example>testing site chaos.</example>
+<example>delayed test results.</example>
+<example>test access inequality.</example>
+<example>false negative fear.</example>
+<example>contact tracing failure.</example>
+<example>quarantine enforcement issues.</example>
+<example>isolation loneliness depression.</example>
+<example>travel ban confusion.</example>
+<example>border closure hardship.</example>
+<example>repatriation difficulty.</example>
+<example>lockdown fatigue.</example>
+<example>curfew resentment.</example>
+<example>mask mandate defiance.</example>
+<example>social distancing breaches.</example>
+<example>vaccine hesitancy skepticism.</example>
+<example>vaccine side effect concerns.</example>
+<example>vaccine development speed fears.</example>
+<example>vaccine supply chain failures.</example>
+<example>vaccine distribution inequality.</example>
+<example>vaccine priority disputes.</example>
+<example>vaccine misinformation claims.</example>
+<example>anti-vax protest rhetoric.</example>
+<example>vaccine passport opposition.</example>
+<example>variant emergence anxiety.</example>
+<example>reinfection potential worry.</example>
+<example>variant spread frustration.</example>
+<example>booster confusion debates.</example>
+<example>long COVID suffering.</example>
+<example>denial narrative pushback.</example>
+<example>conspiracy theory amplification.</example>
+<example>deepfake pandemic news.</example>
+<example>fake cure promotions.</example>
+<example>scam treatment schemes.</example>
+<example>hoarding essential goods.</example>
+<example>price gouging essentials.</example>
+<example>business closure despair.</example>
+<example>unemployment surge pain.</example>
+<example>small business collapse.</example>
+<example>economic recession worries.</example>
+<example>poverty level increase.</example>
+<example>rent eviction fears.</example>
+<example>mental health crisis.</example>
+<example>suicide risk mentions.</example>
+<example>domestic violence increase.</example>
+<example>child neglect concerns.</example>
+<example>elderly abandonment guilt.</example>
+<example>immunocompromised vulnerability.</example>
+<example>special needs neglect.</example>
+<example>school closure learning loss.</example>
+<example>remote learning failure.</example>
+<example>school reopening dangers.</example>
+<example>child developmental setbacks.</example>
+<example>college experience loss.</example>
+<example>wedding cancellations grief.</example>
+<example>funeral restriction trauma.</example>
+<example>holiday separation sadness.</example>
+<example>event postponement disappointment.</example>
+<example>caregiver burnout posts.</example>
+<example>frontline worker abuse.</example>
+<example>anti-Asian hate incidents.</example>
+<example>blaming certain groups.</example>
+<example>police brutality clashes.</example>
+<example>riot control imagery.</example>
+<example>civil liberty infringement claims.</example>
+<example>scientific censorship accusations.</example>
+<example>political polarization rants.</example>
+<example>leadership incompetence blame.</example>
+<example>policy U-turn frustration.</example>
+<example>mixed messaging confusion.</example>
+<example>corruption scandal allegations.</example>
+<example>wealthy privilege exposure.</example>
+<example>healthcare inequality rage.</example>
+<example>vulnerable community neglect.</example>
+<example>poor country access barrier.</example>
+<example>infection rate spikes.</example>
+<example>death toll milestone grief.</example>
+<example>statistic manipulation claims.</example>
+<example>data reporting delays.</example>
+<example>infection source unknowns.</example>
+<example>super-spreader event news.</example>
+<example>essential worker risk.</example>
+<example>public transport anxiety.</example>
+<example>food supply worries.</example>
+<example>medication shortage concerns.</example>
+<example>zoonotic spillover warnings.</example>
+<example>pandemic environmental neglect.</example>
+<example>health insurance gaps.</example>
+<example>long-term health fears.</example>
+<example>words related to government inaction.</example>
+<example>protest clashes.</example>
+<example>misinformation chaos.</example>

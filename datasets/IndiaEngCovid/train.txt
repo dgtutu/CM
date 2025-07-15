@@ -1,0 +1,252 @@
+<example>coronavirus spread.</example> 
+<example>high infection risk.</example> 
+<example>death toll rising.</example> 
+<example>asymptomatic carriers lurking.</example>
+<example>mutating virus threats.</example>
+<example>critical care shortages.</example>
+<example>ventilator scarcity.</example>
+<example>imminent lockdown imposition.</example>
+<example>essential supply scarcity.</example>
+<example>overwhelmed healthcare systems.</example>
+<example>contaminated surfaces risk.</example>
+<example>airborne transmission threat.</example>
+<example>high-risk vulnerability groups.</example>
+<example>deteriorating health rapidly.</example>
+<example>fears of ventilator dependence.</example>
+<example>unknown long-term complications.</example>
+<example>financial ruin potential.</example>
+<example>job loss precarity.</example>
+<example>economic collapse looming.</example>
+<example>stranger proximity danger.</example>
+<example>forced isolation terrors.</example>
+<example>constant health monitoring.</example>
+<example>contagion anxiety triggers.</example>
+<example>unknown virus origins.</example>
+<example>lack of effective cures.</example>
+<example>vaccine uncertainty lingering.</example>
+<example>immunity waning concerns.</example>
+<example>contradictory information chaos.</example>
+<example>misinformation amplifying fears.</example>
+<example>disrupted medical care access.</example>
+<example>collapse of social order.</example>
+<example>security threats during chaos.</example>
+<example>rationing necessities possibility.</example>
+<example>travel becoming perilous.</example>
+<example>quarantine enforcement fears.</example>
+<example>social ostracization threats.</example>
+<example>fear of stigmatization.</example>
+<example>doomsday scenario projections.</example>
+<example>second wave anxieties.</example>
+<example>endemic virus dread.</example>
+<example>children's vulnerability fears.</example>
+<example>elderly abandonment risks.</example>
+<example>medical triage nightmares.</example>
+<example>healthcare denial scenarios.</example>
+<example>protective equipment shortages.</example>
+<example>testing limitations frustrations.</example>
+<example>symptoms overlapping confusion.</example>
+<example>pre-existing condition jeopardy.</example>
+<example>weakened immune system fears.</example>
+<example>government overreach anxieties.</example>
+<example>loss of civil liberties.</example>
+<example>surveillance expansion concerns.</example>
+<example>breakdown of essential services.</example>
+<example>fear of societal unrest.</example>
+<example>collapse of global systems.</example>
+<example>isolation psychological torment.</example>
+<example>fear of losing control.</example>
+<example>constant state of alertness.</example>
+<example>paranoia about exposure.</example>
+<example>feeling perpetually unsafe.</example>
+<example>dread of permanent change.</example>
+<example>fear of reliving the crisis.</example>
+<example>fear of the next pandemic.</example>
+<example>loss of loved ones.</example> 
+<example>tearful goodbyes.</example> 
+<example>uempty streets.</example> 
+<example>canceled graduations.</example>
+<example>postponed weddings.</example>
+<example>unable to visit dying relatives.</example>
+<example>funerals restricted to few attendees.</example>
+<example>lone mourners at gravesides.</example>
+<example>virtual farewells instead of embraces.</example>
+<example>overwhelmed healthcare workers.</example>
+<example>exhausted frontline staff.</example>
+<example>emptiness of playgrounds.</example>
+<example>closed community centers.</example>
+<example>absent family gatherings.</example>
+<example>solitary meals for holidays.</example>
+<example>screens as the only connection.</example>
+<example>persistent sense of isolation.</example>
+<example>languishing in monotony.</example>
+<example>lost jobs and livelihoods.</example>
+<example>struggling small businesses closing.</example>
+<example>financial insecurity deepening.</example>
+<example>dreams deferred indefinitely.</example>
+<example>career paths interrupted.</example>
+<example>educational setbacks and learning loss.</example>
+<example>children growing up in masks.</example>
+<example>missing developmental milestones.</example>
+<example>elderly trapped in care homes.</example>
+<example>widening digital divides.</example>
+<example>hospitals overflowing with patients.</example>
+<example>makeshift morgues.</example>
+<example>recurring lockdowns.</example>
+<example>unable to hold hands.</example>
+<example>missed hugs and physical contact.</example>
+<example>faded connections with friends.</example>
+<example>silenced music venues and theaters.</example>
+<example>abandoned travel plans.</example>
+<example>unused event tickets gathering dust.</example>
+<example>relentless pandemic fatigue.</example>
+<example>endless cycles of hope and disappointment.</example>
+<example>the haunting sound of ambulance sirens.</example>
+<example>lingering coughs as reminders.</example>
+<example>long-term illness symptoms persisting.</example>
+<example>unfamiliarity of masked faces.</example>
+<example>distanced communication.</example>
+<example>relationships strained by proximity.</example>
+<example>loneliness in crowded online meetings.</example>
+<example>abandoned public spaces.</example>
+<example>relearning how to socialize.</example>
+<example>collective grief unprocessed.</example>
+<example>lingering anxiety about gatherings.</example>
+<example>distrust replacing community spirit.</example>
+<example>milestones celebrated alone.</example>
+<example>unbearable quiet of quarantine.</example>
+<example>nostalgia for pre-pandemic normalcy.</example>
+<example>pervasive atmosphere of resignation.</example>
+<example>disrupted routines and loss of purpose.</example>
+<example>silenced laughter in public.</example>
+<example>visibly stressed essential workers.</example>
+<example>impersonal video consultations.</example>
+<example>inability to properly commemorate loss.</example>
+<example>lost sense of community belonging.</example>
+<example>awareness of time passing unused.</example>
+<example>echoes of pre-pandemic life fading.</example>
+<example>recovery news.</example> 
+<example>vaccine success.</example> 
+<example>lockdown lifted.</example> 
+<example>family reunions.</example>
+<example>travel resumes.</example>
+<example>outdoor dining opens.</example>
+<example>concert returns.</example>
+<example>sporting events restart.</example>
+<example>community gatherings resume.</example>
+<example>new treatment approved.</example>
+<example>herd immunity hope.</example>
+<example>case decline celebrated.</example>
+<example>school reopening cheer.</example>
+<example>employee office return.</example>
+<example>hugging loved ones.</example>
+<example>weddings rescheduled happily.</example>
+<example>vaccine passport ease.</example>
+<example>long-awaited holiday.</example>
+<example>visiting elderly relatives.</example>
+<example>birthday parties possible.</example>
+<example>theater performances return.</example>
+<example>festival announcement excitement.</example>
+<example>public park reopenings.</example>
+<example>library access restored.</example>
+<example>gym sessions restart.</example>
+<example>swimming pool joy.</example>
+<example>playground laughter returns.</example>
+<example>charity fundraiser success.</example>
+<example>community support triumph.</example>
+<example>business reopening boom.</example>
+<example>new job start.</example>
+<example>graduation ceremony held.</example>
+<example>drive-thru graduation fun.</example>
+<example>prom night return.</example>
+<example>baby boom announced.</example>
+<example>virtual meetup success.</example>
+<example>creative pandemic project.</example>
+<example>nature appreciation surge.</example>
+<example>wildlife resurgence wonder.</example>
+<example>home gardening boom.</example>
+<example>baking craze joy.</example>
+<example>music creation rise.</example>
+<example>artistic expression flourish.</example>
+<example>volunteering stories shared.</example>
+<example>essential worker appreciation.</example>
+<example>international border reopening.</example>
+<example>cruise ship restart.</example>
+<example>flight booking surge.</example>
+<example>hotel reopening excitement.</example>
+<example>vaccine milestone reached.</example>
+<example>low transmission celebration.</example>
+<example>hospital discharge bell.</example>
+<example>healthcare worker relief.</example>
+<example>social bubble joy.</example>
+<example>pandemic puppy joy.</example>
+<example>DIY home project.</example>
+<example>book club reunite.</example>
+<example>recreational club restart.</example>
+<example>local tourism boost.</example>
+<example>shared resilience pride.</example>
+<example>innovation inspiration stories.</example>
+<example>mental health win.</example>
+<example>optimistic future plans.</example>
+<example>government inaction.</example> 
+<example>protest clashes.</example> 
+<example>misinformation chaos.</example> 
+<example>vaccine hoarding.</example>
+<example>politicization denial.</example>
+<example>denier endangerment.</example>
+<example>lockdown hypocrisy.</example>
+<example>profit exploitation.</example>
+<example>medical rationing.</example>
+<example>authoritarian overreach.</example>
+<example>police brutality.</example>
+<example>death dismissals.</example>
+<example>elite privilege.</example>
+<example>vulnerable abandonment.</example>
+<example>nursing home neglect.</example>
+<example>supply chain sabotage.</example>
+<example>mandate defiance.</example>
+<example>censorship silencing.</example>
+<example>contract corruption.</example>
+<example>inequality exacerbation.</example>
+<example>police aggression.</example>
+<example>lockdown violence.</example>
+<example>hoarder selfishness.</example>
+<example>PPE shortages.</example>
+<example>testing failures.</example>
+<example>tracing incompetence.</example>
+<example>scientific suppression.</example>
+<example>bureaucratic delays.</example>
+<example>red tape bottlenecks.</example>
+<example>employer neglect.</example>
+<example>union busting.</example>
+<example>worker exploitation.</example>
+<example>small business destruction.</example>
+<example>wealth transfer.</example>
+<example>billionaire enrichment.</example>
+<example>anti-mask defiance.</example>
+<example>restriction flouting.</example>
+<example>social shaming.</example>
+<example>neighbor confrontation.</example>
+<example>travel restrictions.</example>
+<example>quarantine enforcement.</example>
+<example>divisive rhetoric.</example>
+<example>blame shifting.</example>
+<example>scapegoating rhetoric.</example>
+<example>infodemic toxicity.</example>
+<example>social media vitriol.</example>
+<example>death threats.</example>
+<example>anti-vax harassment.</example>
+<example>policy flip-flops.</example>
+<example>inconsistent guidelines.</example>
+<example>experts ignored.</example>
+<example>lobbying influence.</example>
+<example>campaign violations.</example>
+<example>election safety risks.</example>
+<example>school reopening chaos.</example>
+<example>teacher endangerment.</example>
+<example>learning loss dismissal.</example>
+<example>hospital overflow.</example>
+<example>staffing crises.</example>
+<example>burnt out workers.</example>
+<example>long COVID ignorance.</example>
+<example>misallocation waste.</example>
+<example>discrimination hostility.</example>

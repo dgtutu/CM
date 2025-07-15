@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb6c8af4-64a7-4fc9-8e1c-208d8bd883b7" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/CBM_LLM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/IndiaEngCovid/test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/IndiaEngCovid/tool/change2list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/IndiaEngCovid/tool/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/IndiaEngCovid/train.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/IndiaEngCovid/train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/IndiaEngCovid2/test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/IndiaEngCovid2/tool/change2list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/IndiaEngCovid2/tool/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/IndiaEngCovid2/train.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/IndiaEngCovid2/train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/IndiaEngCovidDatasetEDA4/test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/IndiaEngCovidDatasetEDA4/tool/change2list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/IndiaEngCovidDatasetEDA4/tool/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/IndiaEngCovidDatasetEDA4/train.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/IndiaEngCovidDatasetEDA4/train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/financial_news/all-data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/financial_news/generate_concept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/financial_news/generate_concept_ds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/financial_news/generate_concept_ds_async.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/financial_news/output_concepts/concepts_negative.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/financial_news/output_concepts/concepts_neutral.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/financial_news/output_concepts/concepts_positive.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/financial_news/output_concepts/concepts_summary.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/financial_news/output_concepts/step1_build_unified_dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/financial_news/output_concepts/step2_create_ground_truth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/financial_news/output_concepts/step3_train_cbm_and_analyze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/financial_news/output_concepts/test.jsonl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/financial_news/output_concepts/test_prase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/financial_news/split.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/financial_news/test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/financial_news/tool/change2list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/financial_news/tool/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/financial_news/train.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/financial_news/train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/financial_news/val.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2ztiHalDfwJQ2WW7xDuWk3SnzQB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "D:/Project/CBM_LLM",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\CBM_LLM" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-PY-251.26094.141" />
+        <option value="bundled-python-sdk-9f8e2b94138c-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26094.141" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="bb6c8af4-64a7-4fc9-8e1c-208d8bd883b7" name="更改" comment="" />
+      <created>1752556682754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752556682754</updated>
+      <workItem from="1752556683891" duration="2428000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
